@@ -1,1 +1,4 @@
-public class Cat {}
+package my.cute;
+public class Cat {
+
+}
